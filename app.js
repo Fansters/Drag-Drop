@@ -8,6 +8,7 @@ const check = document.getElementById('check');
 const fastestCars = [
      'F1',
      'Where Lambo?',
+     'Cayane',
      'McLaren',
      'RS6',
      'Ford Mustang 69\'',
